@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Asyraf 👋
+Arch Linux power-user | Laravel & AWS learner | DevOps-in-progress
 
-<!--
-**Asyraf2003/Asyraf2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I build
+- **Laravel E-Commerce** – siap pakai, arsitektur rapi, siap di-deploy (Docker/CI optional)
+- **School With Article** – auth Google, multi-role, PPDB, multi bahasa (ID/EN/AR)
+- **Arch Dotfiles** – Openbox setup efisien untuk coding (low RAM footprint)
 
-Here are some ideas to get you started:
+## Skills (Practical)
+- Backend: Laravel (Auth, Policies, Middleware, Livewire/Blade), REST API
+- Cloud: AWS (EC2, RDS/DynamoDB konsep, S3, SQS/SNS dasar), Docker
+- Dev: Git, GitHub Actions dasar, Testing & Debugging
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Highlights
+- 🚀 Fokus efisiensi & dokumentasi jelas (README per repo + cara run cepat)
+- 🔐 Security mindset (TryHackMe notes, basic hardening)
+- 🧪 Suka eksperimen & benchmarking ringan
+
+## Contact
+- LinkedIn: …
+- Email: …
