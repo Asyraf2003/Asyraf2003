@@ -34,7 +34,7 @@ Production-ready e-commerce platform with clean architecture, authentication, pr
 Multi-role school web app with Google OAuth, multilingual support (ID/EN/AR), PPDB registration, and article management.  
 
 ### ⚙️ Arch Dotfiles  
-Custom Openbox + CLI setup optimized for performance — includes VPN toggles, Bluetooth/Wi-Fi scripts, MariaDB helpers, and zram/swap tuning.  
+Custom Openbox + CLI setup optimized for performance - includes VPN toggles, Bluetooth/Wi-Fi scripts, MariaDB helpers, and zram/swap tuning.  
 
 ---
 
@@ -78,17 +78,17 @@ Custom Openbox + CLI setup optimized for performance — includes VPN toggles, B
 ---
 
 ## 🧾 Philosophy
-> “Custom is powerful — as long as you understand every line you configure.”  
-That’s why I build from scratch — whether it’s a Laravel backend, Docker network, or Arch setup.  
+> “Custom is powerful - as long as you understand every line you configure.”  
+That’s why I build from scratch - whether it’s a Laravel backend, Docker network, or Arch setup.  
 I believe in **clarity, reproducibility, and elegant simplicity** above everything else.
 
 ---
 
 ## 📫 Contact
-- 💼 **LinkedIn:** *[your-linkedin-here]*  
+- 💼 **LinkedIn:** *https://www.linkedin.com/in/asyraf-mubarak-4016a8305/*  
 - 🐙 **GitHub:** [github.com/Asyraf2003](https://github.com/Asyraf2003)  
-- ✉️ **Email:** *[your-email-here]*  
-- ☎️ **Phone:** *[optional]*  
+- ✉️ **Email:** *asyrafwebsite@gmail.com*  
+- ☎️ **Phone:** *087887681881*  
 
 ---
 
@@ -97,6 +97,6 @@ I believe in **clarity, reproducibility, and elegant simplicity** above everythi
 ### ✨ Bonus
 If you explore my dotfiles, you’ll see how much I love clean systems.  
 If you browse my Laravel repos, you’ll feel my obsession with structure.  
-And if you read my AWS notes — you’ll know I’m serious about mastering the cloud, one service at a time.  
+And if you read my AWS notes - you’ll know I’m serious about mastering the cloud, one service at a time.  
 
 </div>
