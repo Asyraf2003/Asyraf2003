@@ -18,10 +18,10 @@
 
 ## 🧠 About Me
 I’m **Asyraf**, a builder who thrives on **efficiency, clarity, and control**.  
-I use **Arch Linux** as my main OS — not just for speed, but for **total ownership** of my workflow.  
+I use **Arch Linux** as my main OS - not just for speed, but for **total ownership** of my workflow.  
 From Openbox setups under **500 MB RAM** to self-made scripts inside `~/bin`, I design every layer to be efficient and reproducible.  
 
-On the dev side, I focus on **Laravel**, **Docker**, and **AWS Cloud** — bridging backend development with infrastructure automation.  
+On the dev side, I focus on **Laravel**, **Docker**, and **AWS Cloud** - bridging backend development with infrastructure automation.  
 My long-term goal is to master **DevOps**, from coding and CI/CD to scalable cloud deployment and system hardening.
 
 ---
