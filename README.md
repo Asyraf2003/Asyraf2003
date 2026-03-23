@@ -1,72 +1,136 @@
-# Hi there, I'm Basuki Ridho Al Ghifari - [Ridhsuki](https://www.tiktok.com/@ridhsuki) <img src="https://raw.githubusercontent.com/Ridhsuki/Ridhsuki/refs/heads/main/img/Hi.gif" width="32px">
-  
-## About me:
-- 🔭 I’m currently working as Freelance Web Developer
-- 🌱 I’m currently learning Python and Cyber Security
-- 👯 I’m looking to collaborate as Web/Mobile Developer
-- 🤔 I’m Open to UI/UX and front-end design slicing challenges.
-- 💬 Ask me about anything
-- 📫 How to reach me: basukiridhoalghifary@gmail.com
+README.md
 
-## Education:
-#### 1. [Politeknik IDN](https://idn.ac.id/) | Bachelor of Software Engineering Student | Bogor `2024-2028`
-   - Learning web and mobile development.
+<div align="center">
 
-#### 2. [SMK IT Smart Informatika](https://smkitsi.sch.id/) | Computer and Network Engineering | Surakarta `2021-2024`
-   - Chief of ITSI Library (Librarian)
+# Hi there, I'm Asyraf <img src="./img/Hi.gif" width="32px" alt="Hi">
 
-## Work Experience:
-#### 1. [Self-employed](https://ridhsuki.my.id/) | Freelancer | Bogor `2025 - Now`
-   - Worked on various web projects using Laravel, creating custom solutions based on client needs.
-   - Developed and maintained strong client relationships through effective communication and project management.
-   - Utilized tools such as Notion for project tracking, and GitHub for version control and project sharing.
+### Software Engineer focused on Laravel, Go, AWS, and Hexagonal Architecture
 
-#### 2. [Mascom Computer Solo](https://www.instagram.com/mascomkomputer/?hl=de) | Student Intern | Surakarta `2023 (September - December)`
-   - Gained hands-on experience in servicing software and hardware issues. 
-   - Assisted in transporting service items and maintaining workspace cleanliness.
-   - This internship provided practical skills and insights into computer maintenance and repair.
+![Laravel](https://img.shields.io/badge/Backend-Laravel-red?logo=laravel&logoColor=white)
+![Go](https://img.shields.io/badge/Backend-Go-00ADD8?logo=go&logoColor=white)
+![AWS](https://img.shields.io/badge/Cloud-AWS-orange?logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/DevOps-Docker-2496ED?logo=docker&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Linux-Arch%20Linux-1793D1?logo=arch-linux&logoColor=white)
+
+</div>
 
 ---
 
-### Frameworks:
+## About me
 
-[<img align="left" alt="Laravel" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Flutter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="padding-right:10px;" />][webdev]
+- I build backend and operational systems with a focus on **clarity, maintainability, and data precision**.
+- My main working areas are **Laravel**, **Go**, **AWS**, and **modular backend architecture**.
+- I prefer a **zero-assumption engineering mindset**: define the problem clearly, protect boundaries, keep data flow explicit, and validate changes with discipline.
+- I am particularly interested in **Hexagonal Architecture**, backend system design, and cloud-oriented application development.
+- I use **Arch Linux** as my primary development environment and rely on scripting and automation to keep workflows efficient and repeatable.
+
+---
+
+## What I build
+
+### App Kasir Hexagonal
+A cashier and service-sparepart operational system built around **data precision**, **auditability**, and **modular architecture**.  
+Designed to handle real operational concerns such as transaction history, stock consistency, and traceable data changes.
+
+### AsyrafCloud (Foundation Stage)
+A Laravel-focused hosting and infrastructure exploration project centered on **deployment automation**, **practical provisioning**, and **cost-aware cloud design**.
+
+### Laravel E-Commerce
+An e-commerce application covering authentication, product management, order flow, and checkout, with a containerized deployment setup using **Docker** and **Nginx**.
+
+### School CMS + Articles
+A role-based school platform with content management, structured admin workflows, and article features.
+
+### DevOps Tooling on Arch Linux
+Custom scripts and local tooling for managing services, improving repeatability, and keeping development environments lightweight and controlled.
+
+---
+
+## Skills & stack
+
+### Backend
+- Laravel
+- Go
+- PHP 8.x
+- REST API design
+- Authentication and authorization
+- Blade / Livewire
+- SQLite / MariaDB
+
+### Cloud & DevOps
+- AWS fundamentals
+- Docker
+- Nginx
+- Linux / Arch Linux
+- Git
+- Basic CI/CD
+- systemd and service orchestration
+
+### Architecture & engineering
+- Hexagonal Architecture
+- Zero-assumption engineering approach
+- Modular backend design
+- Audit-aware system thinking
+- Testing-oriented development
+
+---
+
+## Current focus
+
+- Preparing for **AWS Developer Associate**
+- Deepening **Laravel** and **Go** backend engineering
+- Building systems with **Hexagonal Architecture**
+- Strengthening cloud and deployment understanding with **AWS** and **Docker**
+- Continuing work on **App Kasir Hexagonal** and **AsyrafCloud**
+
+---
+
+## Philosophy
+
+I prefer systems that are **clear, testable, and honest about their responsibilities**.
+
+For me, good software is not only about making features work. It is about building systems that remain understandable, maintainable, and trustworthy when requirements become more complex.
+
+That is why I value:
+- precise data handling
+- explicit boundaries
+- disciplined iteration
+- architecture that can evolve without losing control
+
+---
+
+## Tools I work with
+
+[<img align="left" alt="Laravel" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" style="padding-right:10px;" />][github]
+[<img align="left" alt="Go" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="padding-right:10px;" />][github]
+[<img align="left" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />][github]
+[<img align="left" alt="Nginx" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" style="padding-right:10px;" />][github]
+[<img align="left" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />][github]
+[<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][github]
+[<img align="left" alt="MariaDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" style="padding-right:10px;" />][github]
+[<img align="left" alt="SQLite" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" style="padding-right:10px;" />][github]
 
 <br />
 <br />
 
 ---
-### Connect with me:
 
-[![website](./img/globe-light.svg)](https://ridhsuki.my.id/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://ridhsuki.my.id/#gh-dark-mode-only)
+## Connect with me
+
+[![website](./img/github-light.svg)](https://github.com/Asyraf2003#gh-light-mode-only)
+[![website](./img/github-dark.svg)](https://github.com/Asyraf2003#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/basuki-ridho#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/basuki-ridho#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/basukiridhoal?hl=de#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/basukiridhoal?hl=de#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://www.youtube.com/@RIDHO_AG#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/@RIDHO_AG#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/asyraf-mubarak-4016a8305/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/asyraf-mubarak-4016a8305/#gh-dark-mode-only)
 
+- Email: **asyrafwebsite@gmail.com**
 
+---
 
-[webdev]: https://github.com/Ridhsuki/Ridhsuki/
+<div align="center">
 
+Most of my work sits at the intersection of **backend engineering**, **system structure**, and **practical infrastructure**.
 
-<!---
-Ridhsuki/Ridhsuki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+</div>
 
-### Languages and Tools:
-
-[<img align="left" alt="Laravel" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Flutter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
-
-Python
-[<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
-
---->
+[github]: https://github.com/Asyraf2003
