@@ -29,18 +29,18 @@ I focus on backend systems that prioritize data consistency, auditability, maint
 
 Repository: [github.com/Asyraf2003/hyperpos](https://github.com/Asyraf2003/hyperpos)
 
-A live operational POS, inventory, reporting, and audit-aware system built for real daily business workflows.
+A live operational POS, inventory, reporting, and audit-aware system actively used in daily business workflows and non-technical operational environments.
 
-Engineering focus:
+### Engineering focus
 
 - Transaction versioning and historical traceability
 - Audit-aware operational logging
 - State-based transactional workflows
 - Inventory tracking with FIFO and average costing support
 - Reporting and dashboard consistency
-- Mobile-oriented UI for non-technical operators
-- Migration planning from Laravel/MySQL toward Go/PostgreSQL
+- Mobile-oriented interfaces for non-technical operators
 - Operational safeguards for live system continuity
+- Migration planning from Laravel/MySQL toward Go/PostgreSQL architecture
 
 ---
 
@@ -48,40 +48,47 @@ Engineering focus:
 
 ### AsyrafCloud
 
-Status: foundation / exploration
+**Status:** foundation / exploration
 
-A cloud and infrastructure learning project focused on deployment automation, cost-aware infrastructure design, and practical backend hosting workflows.
+A cloud and infrastructure learning project focused on deployment workflows, lightweight infrastructure management, and backend hosting experimentation.
+
+---
 
 ### Laravel E-Commerce
 
-Status: archived / learning project
+**Status:** archived / learning project
 
-A Laravel-based e-commerce project covering authentication, product management, order flow, checkout, shipping API integration, and payment gateway flow.
+A Laravel-based e-commerce project covering authentication, product management, checkout flow, payment gateway integration, and shipping workflows.
+
+---
 
 ### School CMS + Articles
 
-Status: archived / learning project
+**Status:** archived / learning project
 
-A role-based school platform with content management, structured admin workflows, and article features.
+A role-based school platform with structured content management and article publishing workflows.
+
+---
 
 ### DevOps Tooling on Arch Linux
 
-Status: personal tooling
+**Status:** personal tooling
 
-Local scripts and workflow tools for managing services, improving repeatability, and keeping my development environment lightweight and reproducible.
+Local scripts and workflow tooling focused on repeatability, lightweight development workflows, and Linux-based operational environments.
 
 ---
 
 ## Skills
 
-### Backend
+### Backend & systems
 
 - Laravel
 - Go
 - PHP
 - REST API design
-- Authentication and authorization
 - Transactional workflow design
+- Authentication & authorization
+- Audit-aware backend architecture
 
 ### Database & reliability
 
@@ -89,8 +96,8 @@ Local scripts and workflow tools for managing services, improving repeatability,
 - PostgreSQL
 - Database design
 - Data consistency
-- Audit-aware backend architecture
 - Operational reliability
+- Historical traceability
 
 ### Tools & platform
 
@@ -98,7 +105,7 @@ Local scripts and workflow tools for managing services, improving repeatability,
 - Docker
 - Linux / Arch Linux
 - Nginx
-- Basic deployment workflow
+- Basic deployment workflows
 
 ---
 
@@ -108,16 +115,16 @@ Local scripts and workflow tools for managing services, improving repeatability,
 - PostgreSQL migration readiness
 - Operationally reliable application design
 - Audit-aware systems
+- Improving HyperPOS documentation and architecture
 - Cloud-oriented infrastructure learning
-- Improving HyperPOS documentation, architecture, and migration path
 
 ---
 
 ## Engineering philosophy
 
-I value systems that remain clear, traceable, and dependable when requirements become more complex.
+I value systems that remain clear, traceable, and dependable as operational complexity grows.
 
-For me, good software is not only about making features work. It is about protecting data integrity, keeping responsibilities explicit, and making sure the system can still be understood, maintained, and safely improved over time.
+For me, good software is not only about making features work. It is about protecting data integrity, keeping responsibilities explicit, and ensuring systems remain understandable, maintainable, and safe to evolve over time.
 
 ---
 
