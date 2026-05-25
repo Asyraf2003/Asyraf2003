@@ -1,15 +1,14 @@
-README.md
-
 <div align="center">
 
-# Hi there, I'm Asyraf <img src="./img/Hi.gif" width="32px" alt="Hi">
+# Hi, I'm Asyraf Mubarak
 
-### Software Engineer focused on Laravel, Go, AWS, and Hexagonal Architecture
+### Software Engineering student focused on backend systems, operational reliability, and audit-aware application design
 
 ![Laravel](https://img.shields.io/badge/Backend-Laravel-red?logo=laravel&logoColor=white)
 ![Go](https://img.shields.io/badge/Backend-Go-00ADD8?logo=go&logoColor=white)
-![AWS](https://img.shields.io/badge/Cloud-AWS-orange?logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/DevOps-Docker-2496ED?logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Tools-Docker-2496ED?logo=docker&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Linux-Arch%20Linux-1793D1?logo=arch-linux&logoColor=white)
 
 </div>
@@ -18,119 +17,112 @@ README.md
 
 ## About me
 
-- I build backend and operational systems with a focus on **clarity, maintainability, and data precision**.
-- My main working areas are **Laravel**, **Go**, **AWS**, and **modular backend architecture**.
-- I prefer a **zero-assumption engineering mindset**: define the problem clearly, protect boundaries, keep data flow explicit, and validate changes with discipline.
-- I am particularly interested in **Hexagonal Architecture**, backend system design, and cloud-oriented application development.
-- I use **Arch Linux** as my primary development environment and rely on scripting and automation to keep workflows efficient and repeatable.
+My engineering mindset was shaped through building and maintaining systems connected to real operational workflows, transactional processes, and financial-related data under live business usage.
+
+I focus on backend systems that prioritize data consistency, auditability, maintainability, and usability for non-technical operators. I prefer a systems-oriented approach: define boundaries clearly, preserve data integrity, minimize unnecessary complexity, and design systems that can evolve safely over time.
 
 ---
 
-## What I build
+## Main project
 
-### App Kasir Hexagonal
-A cashier and service-sparepart operational system built around **data precision**, **auditability**, and **modular architecture**.  
-Designed to handle real operational concerns such as transaction history, stock consistency, and traceable data changes.
+### HyperPOS — Operational Financial & Inventory System
 
-### AsyrafCloud (Foundation Stage)
-A Laravel-focused hosting and infrastructure exploration project centered on **deployment automation**, **practical provisioning**, and **cost-aware cloud design**.
+Repository: [github.com/Asyraf2003/hyperpos](https://github.com/Asyraf2003/hyperpos)
+
+A live operational POS, inventory, reporting, and audit-aware system built for real daily business workflows.
+
+Engineering focus:
+
+- Transaction versioning and historical traceability
+- Audit-aware operational logging
+- State-based transactional workflows
+- Inventory tracking with FIFO and average costing support
+- Reporting and dashboard consistency
+- Mobile-oriented UI for non-technical operators
+- Migration planning from Laravel/MySQL toward Go/PostgreSQL
+- Operational safeguards for live system continuity
+
+---
+
+## Other work
+
+### AsyrafCloud
+
+Status: foundation / exploration
+
+A cloud and infrastructure learning project focused on deployment automation, cost-aware infrastructure design, and practical backend hosting workflows.
 
 ### Laravel E-Commerce
-An e-commerce application covering authentication, product management, order flow, and checkout, with a containerized deployment setup using **Docker** and **Nginx**.
+
+Status: archived / learning project
+
+A Laravel-based e-commerce project covering authentication, product management, order flow, checkout, shipping API integration, and payment gateway flow.
 
 ### School CMS + Articles
+
+Status: archived / learning project
+
 A role-based school platform with content management, structured admin workflows, and article features.
 
 ### DevOps Tooling on Arch Linux
-Custom scripts and local tooling for managing services, improving repeatability, and keeping development environments lightweight and controlled.
+
+Status: personal tooling
+
+Local scripts and workflow tools for managing services, improving repeatability, and keeping my development environment lightweight and reproducible.
 
 ---
 
-## Skills & stack
+## Skills
 
 ### Backend
+
 - Laravel
 - Go
-- PHP 8.x
+- PHP
 - REST API design
 - Authentication and authorization
-- Blade / Livewire
-- SQLite / MariaDB
+- Transactional workflow design
 
-### Cloud & DevOps
-- AWS fundamentals
-- Docker
-- Nginx
-- Linux / Arch Linux
+### Database & reliability
+
+- MySQL
+- PostgreSQL
+- Database design
+- Data consistency
+- Audit-aware backend architecture
+- Operational reliability
+
+### Tools & platform
+
 - Git
-- Basic CI/CD
-- systemd and service orchestration
-
-### Architecture & engineering
-- Hexagonal Architecture
-- Zero-assumption engineering approach
-- Modular backend design
-- Audit-aware system thinking
-- Testing-oriented development
+- Docker
+- Linux / Arch Linux
+- Nginx
+- Basic deployment workflow
 
 ---
 
 ## Current focus
 
-- Preparing for **AWS Developer Associate**
-- Deepening **Laravel** and **Go** backend engineering
-- Building systems with **Hexagonal Architecture**
-- Strengthening cloud and deployment understanding with **AWS** and **Docker**
-- Continuing work on **App Kasir Hexagonal** and **AsyrafCloud**
+- Backend engineering with Laravel and Go
+- PostgreSQL migration readiness
+- Operationally reliable application design
+- Audit-aware systems
+- Cloud-oriented infrastructure learning
+- Improving HyperPOS documentation, architecture, and migration path
 
 ---
 
-## Philosophy
+## Engineering philosophy
 
-I prefer systems that are **clear, testable, and honest about their responsibilities**.
+I value systems that remain clear, traceable, and dependable when requirements become more complex.
 
-For me, good software is not only about making features work. It is about building systems that remain understandable, maintainable, and trustworthy when requirements become more complex.
-
-That is why I value:
-- precise data handling
-- explicit boundaries
-- disciplined iteration
-- architecture that can evolve without losing control
+For me, good software is not only about making features work. It is about protecting data integrity, keeping responsibilities explicit, and making sure the system can still be understood, maintained, and safely improved over time.
 
 ---
 
-## Tools I work with
+## Connect
 
-[<img align="left" alt="Laravel" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" style="padding-right:10px;" />][github]
-[<img align="left" alt="Go" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="padding-right:10px;" />][github]
-[<img align="left" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />][github]
-[<img align="left" alt="Nginx" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" style="padding-right:10px;" />][github]
-[<img align="left" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />][github]
-[<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][github]
-[<img align="left" alt="MariaDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" style="padding-right:10px;" />][github]
-[<img align="left" alt="SQLite" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" style="padding-right:10px;" />][github]
-
-<br />
-<br />
-
----
-
-## Connect with me
-
-[![website](./img/github-light.svg)](https://github.com/Asyraf2003#gh-light-mode-only)
-[![website](./img/github-dark.svg)](https://github.com/Asyraf2003#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/asyraf-mubarak-4016a8305/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/asyraf-mubarak-4016a8305/#gh-dark-mode-only)
-
-- Email: **asyrafwebsite@gmail.com**
-
----
-
-<div align="center">
-
-Most of my work sits at the intersection of **backend engineering**, **system structure**, and **practical infrastructure**.
-
-</div>
-
-[github]: https://github.com/Asyraf2003
+- GitHub: [github.com/Asyraf2003](https://github.com/Asyraf2003)
+- LinkedIn: [linkedin.com/in/asyraf-mubarak-4016a8305](https://www.linkedin.com/in/asyraf-mubarak-4016a8305/)
+- Email: asyrafwebsite@gmail.com
