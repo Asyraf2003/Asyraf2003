@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Asyraf Mubarak
+# Hi, I'm Asyraf Mubarak <img src="./img/Hi.gif" width="32px" alt="Hi">
 
 ### Software Engineering student focused on backend systems, operational reliability, and audit-aware application design
 
