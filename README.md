@@ -2,7 +2,7 @@
 
 # Hi, I'm Asyraf Mubarak <img src="./img/Hi.gif" width="32px" alt="Hi">
 
-### Software Engineering student building production systems around transaction integrity, operational reliability, and explicit web standards
+### Software Engineering building production systems around transaction integrity, operational reliability, and explicit web standards
 
 ![Laravel](https://img.shields.io/badge/Backend-Laravel-red?logo=laravel&logoColor=white)
 ![Go](https://img.shields.io/badge/Backend-Go-00ADD8?logo=go&logoColor=white)
